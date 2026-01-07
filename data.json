@@ -1,17 +1,21 @@
-[
-  {
-    "title": "SSC Multi Tasking Staff (MTS)",
-    "qualification": "10th",
-    "link": "https://ssc.nic.in"
+{
+  "10th": {
+    "vacancies": "1. SSC MTS (Link: https://ssc.nic.in)\n2. Railway Group D\n3. Post Office GDS",
+    "roadmap": "Aap ITI, Diploma ya kisi vocational trade mein admission le sakte hain.",
+    "motivation": "✨ 5 Zaroori Baatein:\n1. Apne upar hamesha bharosa rakhen.\n2. Kisi galat ya fraud consultancy ke chakkar mein na fasein.\n3. Form bharte samay har detail ko dhyan purvak check karein.\n4. Mehnat ka koi shortcut nahi hota.\n5. Har asafalta ek nayi seekh deti hai."
   },
-  {
-    "title": "Railway Group D",
-    "qualification": "10th",
-    "link": "https://indianrailways.gov.in"
+  "12th_Maths": {
+    "vacancies": "1. NDA (Defense)\n2. Air Force X Group\n3. Navy SSR",
+    "roadmap": "Engineering (B.Tech), B.Sc (Statistics/Maths), ya Architecture ek behtareen rasta hai.",
+    "motivation": "✨ 5 Zaroori Baatein:\n1. Math skills ko practical jagah apply karna seekhen.\n2. Tech field mein hamesha updated rahein.\n3. Form fill karte waqt documents sahi scan karein.\n4. Consistency hi kamyabi ki chabi hai.\n5. Passion ko profession banayein."
   },
-  {
-    "title": "Indian Army Agniveer",
-    "qualification": "12th",
-    "link": "https://joinindianarmy.nic.in"
-  }
-]
+  "12th_Bio": {
+    "vacancies": "1. Army Nursing\n2. Pharmacy Entrance\n3. Lab Assistant",
+    "roadmap": "MBBS, BDS, B.Pharma, Nursing ya Biotechnology mein apna career banayein.",
+    "motivation": "✨ 5 Zaroori Baatein:\n1. Patience rakhein, medical field waqt mangti hai.\n2. Sahi source se hi padhai karein.\n3. Government official sites se hi form bharen.\n4. Rozana thoda thoda seekhte rahein.\n5. Aapki madad kisi ki jaan bacha sakti hai."
+  },
+  "12th_Arts": {
+    "vacancies": "1. SSC CHSL\n2. State Police Bharti\n3. Stenographer Jobs",
+    "roadmap": "Law (CLAT), Fashion Designing, Hotel Management ya Civil Services (UPSC) ki taiyari shuru karein.",
+    "motivation": "✨ 5 Zaroori Baatein:\n1. Apne communication skills par kaam karein.\n2. Galt afwahon se bachein.\n3. Form ki last date ka intezar na karein.\n4. Har subject ko barabri se waqt dein.\n5. Creativity hi aapki sabse badi takat hai."
+}}
