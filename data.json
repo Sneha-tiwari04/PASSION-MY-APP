@@ -1,21 +1,42 @@
 {
-  "10th": {
-    "vacancies": "1. SSC MTS (Link: https://ssc.nic.in)\n2. Railway Group D\n3. Post Office GDS",
-    "roadmap": "Aap ITI, Diploma ya kisi vocational trade mein admission le sakte hain.",
-    "motivation": "✨ 5 Zaroori Baatein:\n1. Apne upar hamesha bharosa rakhen.\n2. Kisi galat ya fraud consultancy ke chakkar mein na fasein.\n3. Form bharte samay har detail ko dhyan purvak check karein.\n4. Mehnat ka koi shortcut nahi hota.\n5. Har asafalta ek nayi seekh deti hai."
-  },
-  "12th_Maths": {
-    "vacancies": "1. NDA (Defense)\n2. Air Force X Group\n3. Navy SSR",
-    "roadmap": "Engineering (B.Tech), B.Sc (Statistics/Maths), ya Architecture ek behtareen rasta hai.",
-    "motivation": "✨ 5 Zaroori Baatein:\n1. Math skills ko practical jagah apply karna seekhen.\n2. Tech field mein hamesha updated rahein.\n3. Form fill karte waqt documents sahi scan karein.\n4. Consistency hi kamyabi ki chabi hai.\n5. Passion ko profession banayein."
-  },
-  "12th_Bio": {
-    "vacancies": "1. Army Nursing\n2. Pharmacy Entrance\n3. Lab Assistant",
-    "roadmap": "MBBS, BDS, B.Pharma, Nursing ya Biotechnology mein apna career banayein.",
-    "motivation": "✨ 5 Zaroori Baatein:\n1. Patience rakhein, medical field waqt mangti hai.\n2. Sahi source se hi padhai karein.\n3. Government official sites se hi form bharen.\n4. Rozana thoda thoda seekhte rahein.\n5. Aapki madad kisi ki jaan bacha sakti hai."
-  },
-  "12th_Arts": {
-    "vacancies": "1. SSC CHSL\n2. State Police Bharti\n3. Stenographer Jobs",
-    "roadmap": "Law (CLAT), Fashion Designing, Hotel Management ya Civil Services (UPSC) ki taiyari shuru karein.",
-    "motivation": "✨ 5 Zaroori Baatein:\n1. Apne communication skills par kaam karein.\n2. Galt afwahon se bachein.\n3. Form ki last date ka intezar na karein.\n4. Har subject ko barabri se waqt dein.\n5. Creativity hi aapki sabse badi takat hai."
-}}
+    "10th": {
+        "photos": [
+            "image.png",
+            "Yahan_Photo_Link_2"
+        ],
+        "links": [
+            {"name": "SSC MTS Official", "url": "https://ssc.gov.in"},
+            {"name": "Railway Group D", "url": "https://indianrailways.gov.in"},
+            {"name": "State Level Jobs", "url": "https://example.com"}
+        ],
+        "roadmap": "Aap ITI, Diploma ya vocational courses karke jaldi job pa sakte hain.",
+        "motivation": "✨ 1. Har din ek naya mauka hai.\n✨ 2. Mushkilein sirf rasta rokti hain, manjil nahi.\n✨ 3. Aapki mehnat hi aapki asli pehchan hai.\n✨ 4. Chote kadam hi badi kamyabi late hain.\n✨ 5. Passion ke saath har mushkil aasan hai.\n\n🚀 *PASIO Career Guide* - Hum hamesha aapke saath hain!"
+    },
+    "12th": {
+        "photos": [
+            "Yahan_Photo_Link_1",
+            "Yahan_Photo_Link_2"
+        ],
+        "links": [
+            {"name": "NDA Defense Jobs", "url": "https://upsc.gov.in"},
+            {"name": "SSC CHSL (Clerk)", "url": "https://ssc.gov.in"},
+            {"name": "CUET Entrance Exam", "url": "https://cuet.samarth.ac.in"}
+        ],
+        "roadmap": "Aap apne stream (Arts/Science/Commerce) ke hisaab se specialization chunein.",
+        "motivation": "✨ 1. Sapne wo nahi jo neend mein aate hain.\n✨ 2. Sahi disha mein ki gayi mehnat rang lati hai.\n✨ 3. Kabhi har mat mano, rasta badlo maqsad nahi.\n✨ 4. Aapka kal aapke aaj ke faislon par nirbhar hai.\n✨ 5. Passion hi aapko bheed se alag banayega.\n\n🚀 *PASIO Career Guide* - Hum hamesha aapke saath hain!"
+    },
+    "Graduation": {
+        "photos": [
+            "Yahan_Photo_Link_1",
+            "Yahan_Photo_Link_2",
+            "Yahan_Photo_Link_3"
+        ],
+        "links": [
+            {"name": "UPSC Civil Services", "url": "https://upsc.gov.in"},
+            {"name": "SSC CGL (Officers)", "url": "https://ssc.gov.in"},
+            {"name": "Bank PO/Clerk", "url": "https://ibps.in"}
+        ],
+        "roadmap": "Competitive exams ki taiyari shuru karein ya Higher Studies (MBA/MA) ke liye jayein.",
+        "motivation": "✨ 1. Sabr aur mehnat ka phal meetha hota hai.\n✨ 2. Aap ek officer banne ki kshamta rakhte hain.\n✨ 3. Har fail-milit ek naya sabak deti hai.\n✨ 4. Consistency hi kamyabi ka raaz hai.\n✨ 5. Duniya ko dikha dein ki aap kya cheez hain.\n\n🚀 *PASIO Career Guide* - Hum hamesha aapke saath hain!"
+    }
+}
